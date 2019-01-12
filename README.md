@@ -1,4 +1,4 @@
-# get-a-list-of-html-files-by-R
+# Get-a-List-of-HTML-Files-by-R
 The code in this repository can help to get a list of html files from the given url and download them into your computer. 
 I used the website "http://www.stat.purdue.edu/~mdw/490M/" here. It is the course website of 
 "Introduction To Computing With Data" in the University of Purdue in 2009. 
